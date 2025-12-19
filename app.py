@@ -180,7 +180,7 @@ st.divider()
 st.info("""
 **Professional Disclaimer:** This data is compiled from public MCA records. While every effort is made to maintain 
 accuracy, CA Tanmay Rajendra Bhavar is not responsible for any financial decisions made based on this dashboard. 
-Users are advised to cross-verify sensitive data with official ROC filings.
+Users are advised to cross-verify sensitive data with official ROC filings. The data is updated on 3rd November 2023.
 """)
 
 # Floating Footer
